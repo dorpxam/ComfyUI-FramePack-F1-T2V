@@ -23,9 +23,7 @@ Simply clone this repository to `custom-nodes` folder in your ComfyUI installati
 
 ## Worflow
 
-https://github.com/user-attachments/assets/ac72c868-c05d-43f6-bd96-646a82ddb9b6
-
-[download workflow](assets/FramePack-F1-T2V-Workflow.png)
+![download workflow](assets/FramePack-F1-T2V-Workflow.png "FramePack-F1-T2V-Workflow")
 
 ## Credits and greetings
 
