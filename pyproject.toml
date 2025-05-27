@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-FramePack-F1-T2V"
+description = "A set of custom nodes enabling Text-to-Video support for FramePack-F1"
+version = "0.1.0"
+readme = "README.md"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/dorpxam/ComfyUI-FramePack-F1-T2V"
+
+[tool.comfy]
+PublisherId = "dorpxam"
+DisplayName = "ComfyUI-FramePack-F1-T2V"
+Icon = ""
