@@ -21,7 +21,7 @@ Installation via [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) 
 
 Simply clone this repository to `custom-nodes` folder in your ComfyUI installation directory.
 
-## Worflow
+## Workflow
 
 ![download workflow](assets/FramePack-F1-T2V-Workflow.png "FramePack-F1-T2V-Workflow")
 
